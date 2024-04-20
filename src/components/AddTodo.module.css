@@ -1,0 +1,11 @@
+
+
+.todoBox{
+    width: 685px;
+}
+input{
+    border-radius: 10px;
+    padding: 4px 10px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+}

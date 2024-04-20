@@ -1,0 +1,12 @@
+.todoHeading {
+  font-weight: 700;
+  font-size: 60px;
+  margin-bottom: 20px;
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(74, 183, 187);
+  font-size: 50px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
